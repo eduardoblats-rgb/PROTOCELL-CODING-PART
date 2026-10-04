@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it (and the associated manuscript)."
+title: "Code and data for: Spatial coupling of RNA folding states in multiphase coacervates enables isothermal replication"
+# NOTE: update the title above if the manuscript title changes before release.
+type: software
+authors:
+  - given-names: "Eduardo"
+    family-names: "Blat Sos"
+license: MIT
+repository-code: "https://github.com/<user>/<repository>"   # fill in after creating the GitHub repository
+version: "1.0.0"
+date-released: "2026-10-04"                                  # update to the release date
