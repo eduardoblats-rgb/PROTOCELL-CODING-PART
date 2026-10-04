@@ -7,6 +7,6 @@ authors:
   - given-names: "Eduardo"
     family-names: "Blat Sos"
 license: MIT
-repository-code: "https://github.com/<user>/<repository>"   # fill in after creating the GitHub repository
+repository-code: "https://github.com/<eduardoblats-rgb>/<PROTOCELL-CODING-PART>"   # fill in after creating the GitHub repository
 version: "1.0.0"
 date-released: "2026-10-04"                                  # update to the release date
